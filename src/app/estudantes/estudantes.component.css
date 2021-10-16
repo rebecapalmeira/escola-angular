@@ -1,0 +1,20 @@
+#form-inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+mat-tab-group {
+    width: 60%;
+    margin: 0 auto;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-image: linear-gradient(rgb(197, 197, 197), gray);
+}
